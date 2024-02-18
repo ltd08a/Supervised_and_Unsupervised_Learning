@@ -1,6 +1,6 @@
 # Supervised and Unsupervised Learning
 ### Project Description
-FILL
+This project is for the Udacity course Supervised and Unsupervised Learning. This project consists of two parts. Throughout these sections I will use supervised and unsupervised learning techniques to analyze data, while finding the most effective method for my specific datasets.  
 ### Environment(s)
 Jupyter Notebook
 ### Language(s)
